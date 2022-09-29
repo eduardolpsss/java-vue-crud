@@ -6,7 +6,7 @@ Siga o passo a passo para a execução do programa:
 
 O back-end e o front-end estão divididos, é necessário inicializá-los manualmente, vamos começar pelo back-end:
 
-- Back-end -
+- Back-end - JavaSE-1.8
 
 1- Você pode utilizar o Run ou executar sem depuração (Ctrl + F5 no Visual Studio Code) para inicializar o server SpringBoot, ele geralmente inicializa na porta 8080 do navegador, o caminho para o beck-end do projeto foi definido sendo http://localhost:8080/api/funcionarios/, por aqui é possivel acompanhar em forma de .json tudo que se encontra no banco de dados.
 
