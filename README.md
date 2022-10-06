@@ -1,6 +1,6 @@
 # processo-seletivo-hepta-crud
 <p>
-    Sistema desenvolvido especificamente para o processo seletivo de desenvolvedor Java Jr. da Hepta tecnologia, utilizei a linguagem Java em seu back-end e VUE.js em seu front-end.
+System developed specifically for the selection process of Java Jr. at Hepta Tecnologia, I used the Java language with SpringBoot and other dependencies on its back-end and Vue.js on its front-end.
 </p>
 
 <div align="center">
