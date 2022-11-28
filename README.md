@@ -1,6 +1,6 @@
-# javaVueCrud
+# javaVueCrudSystem
 <p>
-For this project I used the build automation tool build environment (Maven), SpringBoot micro service and other dependencies on the back-end, on the front-end I used Vue with Vuetify, a Vue UI Library with beautifully handcrafted Material Components.
+    For this project I used the build environment automation tool (Maven), SpringBoot micro service and other dependencies on the back-end, on the front-end I used Vue with Vuetify, a Vue UI Library with beautifully handcrafted Material Components.
 </p>
 
 <div align="center">
